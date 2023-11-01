@@ -61,7 +61,7 @@ python3 -m venv env
   ```
 - STEP 2
     ``` bash
-    pip install -r req.txt
+    pip install -r requirements.txt
     ```
 - STEP 3
     ```
